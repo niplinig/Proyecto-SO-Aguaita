@@ -1,0 +1,1 @@
+gcc src/main.c -o bin/main && bin/main 100, 1, 1, 100, 90, 5050;
